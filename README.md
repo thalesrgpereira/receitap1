@@ -7,3 +7,7 @@ instruções de cozimento, use CSS para estilizar sua página e aplique layouts 
 agradáveis às suas receitas.
 
 https://thalesrgpereira.github.io/receitap1
+
+>Equipe:
++  Thales
++  Enoque
